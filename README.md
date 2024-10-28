@@ -1,2 +1,4 @@
-# Sales-Performance-Dashboard
-reated an interactive Excel dashboard with 5 key insights to analyze coffee sales trends, customer preferences, and regional performance for strategic sales optimization.
+#Strategic Coffee Sales Performance Dashboard (Interactive Dashboard creation using MS Excel)
+##Project Objective
+To analyze coffee sales data to uncover trends, optimize sales strategies, and enhance customer engagement.
+
