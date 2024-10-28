@@ -10,7 +10,7 @@ To analyze coffee sales data to uncover trends, optimize sales strategies, and e
 2.	Which countries contribute the most to total coffee sales?
 3.	How do package size and roast type preferences vary among customers?
 
--	Dashboard Interaction <a href=" https://github.com/Ericajmj/Sales-Performance-Dashboard/blob/main/Coffe%20sales%20dashboard.png">Dashboard</a>
+-	Dashboard Interaction <a href="https://github.com/Ericajmj/Sales-Performance-Dashboard/blob/main/Coffe%20sales%20dashboard.png">Dashboard</a>
 
 
 
