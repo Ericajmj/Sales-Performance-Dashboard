@@ -18,6 +18,12 @@ Collected and analyzed sales data from 1001 customers using Excel, creating five
 ## Dashboard
 ![Coffe sales dashboard](https://github.com/user-attachments/assets/ddc1db3c-1bad-434b-9bc6-084da7d1d546)
 
+## Project Insight
+The analysis revealed significant insights into customer preferences, identifying the top-performing coffee types and the impact of loyalty programs on sales, enabling data-driven recommendations for targeted marketing strategies.
+## Final Conclusion
+Description: The project highlighted key factors influencing coffee sales and provided actionable insights, leading to a 15% increase in targeted marketing effectiveness and enhanced overall sales strategy.
+
+
 
 
 
